@@ -12,13 +12,20 @@ body{
   font-family: sans-serif;
   font-weight: lighter;
   font-size: 30px;
-  padding: 15px 45px 15px 20px;
+  padding: 15px 20px 15px 20px;
   margin-top: 200px;
+  margin-right: 25px;
   color: white;
+}
 
+.border{
+  margin-top: 6%;
+  border: 2px solid white;
 }
 .video{
   float: left;
+  padding: 11px 10px 8px 10px;
+  border: 2px solid white;
   margin: 200px 0px 0px 30px;
 }
 .screw-dots{

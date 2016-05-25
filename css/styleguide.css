@@ -1,0 +1,26 @@
+body{
+  background-image: url(http://www.gorillavsbear.net/files/2016/01/Skin.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: rgba(202, 107, 132, 1);
+}
+
+.showtimes{
+  float: right;
+  background-color: rgba(88, 82, 161, 0); opacity: .9;
+  list-style: none;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+  padding: 15px 45px 15px 20px;
+  margin-top: 200px;
+  color: white;
+
+}
+.video{
+  float: left;
+  margin: 200px 0px 0px 30px;
+}
+.screw-dots{
+  list-style: none;
+}
